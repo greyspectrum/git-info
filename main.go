@@ -14,7 +14,7 @@ import (
 
 // flags
 var (
-	user  string
+	user string
 )
 
 // "main" is the entry point of our CLI app
